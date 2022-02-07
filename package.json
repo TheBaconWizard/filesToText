@@ -1,0 +1,20 @@
+{
+  "name": "filestotext",
+  "version": "1.1.0",
+  "description": "A simple command line utility to convert files to text files",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
